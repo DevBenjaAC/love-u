@@ -68,7 +68,7 @@ export default function LoveU() {
             "bg-clip-text text-transparent"
           )}
         >
-          ¿Quieres ser mi novia?
+          ¿Quieres ir por tacos?
         </h1>
         <div
           className={clsx(
